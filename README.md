@@ -1,9 +1,6 @@
-<h2 align=center>Hello there, 👋</h2>
-
-<h2 align=center>I'm Anna - FullStack JS developer</h2> 
-
-
-
+<h2 align=center>Hello there, 👋 <br>
+I'm Anna - FullStack JS developer
+</h2>
 
 
 👀 Interested in: <br>
@@ -26,18 +23,15 @@
 <a href='#'><img src='/icons/git.png'></img></a>
 <a href='#'><img src='/icons/github.png'></img></a>
 </div>
-<span>Main: JavaScript, Node.js</span>
-<span>Frontend: React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap</span><br>
-<span>Backend: Express, Sessions, Bcrypt, Handlebars</span><br>
-<span>DB: PostgreSQL, Sequelize ORM</span>
-<span>Testing: Jest</span><br>
-<span>Other: Git, GitHub, VS Code</span>
+<span><strong>Main:</strong> JavaScript, Node.js</span><br>
+<span><strong>Frontend:</strong> React, Redux, Saga, Thunk, HTML5, CSS3, Bootstrap</span><br>
+<span><strong>Backend:</strong> Express, Sessions, Bcrypt, Handlebars</span><br>
+<span><strong>DB:</strong> PostgreSQL, Sequelize ORM</span>
+<span><strong>Testing:</strong> Jest</span><br>
+<span><strong>Other:</strong> Git, GitHub, VS Code</span>
 
-______
 
 <h2 align=center>✉️ Contacts</h2>
-
-__________
 
 
 <div>
