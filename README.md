@@ -10,7 +10,7 @@ I'm Anna - FullStack JS developer
 🎮 Video games <br>
 🎧 Music
 
-<h2>🛠️ My Tech Stack:</h2>
+<h2 align=center>🛠️ My Tech Stack:</h2>
 <br>
 <div>
 <a href='#'><img src='/icons/js.png'></img></a>
