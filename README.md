@@ -35,7 +35,7 @@ I'm Anna - FullStack JS developer
 
 
 <div>
-<a href='t.me/AnnaLa1109'><img src='/icons/telegram.png'></img></a>
+<a href='https://t.me/AnnaLa1109'><img src='/icons/telegram.png'></img></a>
 <a href='https://www.instagram.com/anna_la11/'><img src='/icons/instagram.png'></img></a>
 <a href='mailto:annala1109@gmail.com'><img src='/icons/gmail.png'></img></a>
 </div>
